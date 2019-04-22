@@ -1,0 +1,5 @@
+﻿  houghMultiple.cpp
+f:\ustcsse\advancedimageprocessing\experiment\multiple\multiple\houghmultiple.cpp(106): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+f:\ustcsse\advancedimageprocessing\experiment\multiple\multiple\houghmultiple.cpp(175): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+f:\ustcsse\advancedimageprocessing\experiment\multiple\multiple\houghmultiple.cpp(256): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+  multiple.vcxproj -> F:\ustcsse\AdvancedImageProcessing\experiment\extendThree\x64\Debug\multiple.exe
